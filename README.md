@@ -302,7 +302,5 @@ recommend-python/
 
 wx：xiaotankelaoshi
 
-![image-20250419175214073](/Users/changyizhong/Library/Application Support/typora-user-images/image-20250419175214073.png)
-
-
+![Uploading image.png…]()
 
